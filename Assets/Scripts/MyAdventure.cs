@@ -13,7 +13,8 @@ public class MyAdventure : MonoBehaviour
         delen,
         deelnee,
         deelja,
-        leukgesprek
+        leukgesprek,
+        eind
     }
 
     private States currentState = States.start;
